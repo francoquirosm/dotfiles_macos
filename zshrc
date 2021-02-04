@@ -1,6 +1,9 @@
 
 # VARIABLES
 
+# SINTAX HIGHLIGHTING FOR MAN PAGES (bat)
+
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 
 # OPTIONS
 
@@ -30,3 +33,5 @@ function mkcd() {
 
 
 # FUNCTIONS
+# Add Visual Studio Code (code)
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
