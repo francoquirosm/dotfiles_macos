@@ -4,6 +4,7 @@
 # SINTAX HIGHLIGHTING FOR MAN PAGES (bat)
 
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+export HOMEBREW_CASK_OPTS='--no-quarantine'
 
 # OPTIONS
 
