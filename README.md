@@ -1,12 +1,13 @@
 # dotfiles_macos
-dotfiles 
 
-## TODO 
+dotfiles
+
+## TODO
+
 - Terminal Preferences
 - Change Shell to ZSH
 - Dock Preferences
 - Mission Control Preferences (Don't rearrange spaces)
 - Finder Show Path Bar
 - Trackpad (Three finger drag and Tap to click)
-- .zshrc
 - Git (config and SSH)
