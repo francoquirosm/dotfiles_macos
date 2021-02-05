@@ -12,6 +12,8 @@ brew "git"
 brew "httpie"
 # Load testing and performance measurement application
 brew "jmeter"
+# Mac App Store command-line interface
+brew "mas"
 # Manage multiple Node.js versions
 brew "nvm"
 # Watch files and take action when they change
@@ -22,3 +24,9 @@ brew "yarn"
 cask "adoptopenjdk8"
 # Application launcher and productivity software
 cask "alfred"
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Slack", id: 803453959
+mas "Snappy", id: 512617038
+mas "Xcode", id: 497799835
