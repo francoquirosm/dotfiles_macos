@@ -12,7 +12,7 @@ export HOMEBREW_CASK_OPTS='--no-quarantine'
 
 # ALIASES
 
-alias ls='ls -lAFh'
+alias ls='exa -laTFh --level=2 --git'
 
 # PROMPT(s)
 

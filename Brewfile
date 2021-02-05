@@ -22,5 +22,3 @@ brew "yarn"
 cask "adoptopenjdk8"
 # Application launcher and productivity software
 cask "alfred"
-# Client for the Dropbox cloud storage service
-cask "dropbox"
